@@ -10,10 +10,13 @@
 - Look at my [Codeforces](https://codeforces.com/profile/Feras.Barahmeh)
 
 ### Language And Tools:
-  - PHP - MySQL
-  - OOP - Python
+  - PHP 
+  - MySQL
+  - OOP
+  - Python
   - Git & GitHup
-  - HTML - CSS
+  - HTML
+  - CSS
 
 ### Skiles
   - Problem Solving
