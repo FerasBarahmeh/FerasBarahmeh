@@ -14,7 +14,7 @@
   - SQL & MySQL
   - OOP
   - Python
-  - Git & GitHup
+  - Git **&** GitHup
   - HTML
   - CSS
 
