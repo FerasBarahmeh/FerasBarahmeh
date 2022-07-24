@@ -11,7 +11,7 @@
 
 ### Language And Tools:
   - PHP 
-  - MySQL
+  - SQL & MySQL
   - OOP
   - Python
   - Git & GitHup
