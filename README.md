@@ -5,3 +5,18 @@
 - Machine Learning Enthusiast :chart_with_upwards_trend:
 - I’m looking to collaborate on open source projects 
 - Contact Me On Gmail <ferasbarahmeh55@gmail.com>
+
+- Look over at [Linkedin](https://www.linkedin.com/in/feras-barahmeh/) or [instagram]((https://www.instagram.com/feras.barahmeh/) where I share useful content
+
+### Language And Tools:
+  - PHP
+  - MySQL
+  - OOP
+  - Python
+  - Git & GitHup
+  - HTML
+  - CSS
+
+### Skiles
+  - Problem Solving
+  - Responsive Web Design
