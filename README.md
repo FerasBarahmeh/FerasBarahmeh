@@ -1,3 +1,4 @@
+<img alt="image" width="100%" height ="400" src="https://pricode.io/wp-content/uploads/2019/04/programmer.gif">
 <h1 align="center">Hi 👋, I'm Feras Barahmeh</h1>
 <h3 align="center">Intelligent systems engineering student at TTU University Work Backend developer💻</h3>
 
