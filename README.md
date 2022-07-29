@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/ferasbarahmeh" target="blank"><img src="https://img.shields.io/twitter/follow/ferasbarahmeh?logo=twitter&style=for-the-badge" alt="ferasbarahmeh" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Laravel CPP**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
