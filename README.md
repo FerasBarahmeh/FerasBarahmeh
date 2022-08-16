@@ -14,8 +14,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Feras-Barahmeh](https://github.com/Feras-Barahmeh)
 
-- 💬 Ask me about **Python, PHP**
-
 - 📫 How to reach me **f.f.b.feras@gmail.com**
 - Last project [ecommerce](https://github.com/Feras-Barahmeh/Ecommerce)
 
