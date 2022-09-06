@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **Develop my skills in php** & **Developing problem solving skills**
 
-- 👯 I’m looking to collaborate on **open source projects**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Feras-Barahmeh](https://github.com/Feras-Barahmeh)
 
 - 📫 How to reach me **f.f.b.feras@gmail.com**
