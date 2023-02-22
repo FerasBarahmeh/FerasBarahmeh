@@ -8,12 +8,12 @@
 
 <p align="left"> <a href="https://twitter.com/ferasbarahmeh" target="blank"><img src="https://img.shields.io/twitter/follow/ferasbarahmeh?logo=twitter&style=for-the-badge" alt="ferasbarahmeh" /></a> </p>
 
-- 🌱 I’m currently learning **Develop my skills in php** & **Developing problem solving skills**
+- I’m currently learning **Develop my skills in php** & **Developing problem solving skills** [Leetcode](https://leetcode.com/FerasBarahmeh/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Feras-Barahmeh](https://github.com/Feras-Barahmeh)
 
 - 📫 How to reach me **f.f.b.feras@gmail.com**
-- Last project [Articles Site](https://github.com/Feras-Barahmeh/Portfolio)
+- Last project [Sales Management](https://github.com/Feras-Barahmeh/Sales-Management)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
