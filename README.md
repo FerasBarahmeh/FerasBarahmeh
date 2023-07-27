@@ -1,6 +1,6 @@
 <img alt="image" width="100%" height ="400" src="https://pricode.io/wp-content/uploads/2019/04/programmer.gif">
 <h1 align="center">Hi 👋, I'm Feras Barahmeh</h1>
-<h3 align="center">Intelligent systems engineering student at TTU University Work Backend developer💻</h3>
+<h3 align="center">Intelligent systems engineering student at TTU University Work Software Engineer💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=feras-barahmeh&label=Profile%20views&color=0e75b6&style=flat" alt="feras-barahmeh" /> </p>
 
@@ -13,7 +13,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Feras-Barahmeh](https://github.com/Feras-Barahmeh)
 
 - 📫 How to reach me **f.f.b.feras@gmail.com**
-- Last project [Sales Management](https://github.com/Feras-Barahmeh/Sales-Management)
+- Last project [Pre-Catalog](https://github.com/Feras-Barahmeh/Pre-Catalog)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
