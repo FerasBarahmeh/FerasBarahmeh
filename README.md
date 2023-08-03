@@ -27,7 +27,7 @@
 <p align="left">
 <a href="https://twitter.com/ferasbarahmeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ferasbarahmeh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/feras-barahmeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="feras-barahmeh" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/feras barahmeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="feras barahmeh" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCXpUm0ljpBMaleEoiwNGe5A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="feras barahmeh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ferasbarahmeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ferasbarahmeh" height="30" width="40" /></a>
 </p>
 
