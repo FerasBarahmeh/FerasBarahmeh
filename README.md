@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ferasbarahmeh" target="blank"><img src="https://img.shields.io/twitter/follow/ferasbarahmeh?logo=twitter&style=for-the-badge" alt="ferasbarahmeh" /></a> </p>
 
-- 🔭 I’m currently working on Home [POS](https://github.com/Feras-Barahmeh/POS)
+- 🔭 I’m currently working on Home [Hospital Management System](https://github.com/Feras-Barahmeh/Hospital-Management-System)
 
 - 🌱 I’m currently learning **Laravel & PHP & Developing problem-solving skills**
 
