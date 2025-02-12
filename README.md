@@ -7,9 +7,9 @@
 
 </div>
 
-- 🔭 I’m currently working on Home [PlayStation Club](https://github.com/FerasBarahmeh/PlayStationHub)
+- 🔭 I’m currently working on Home [PlayStation Hup](https://github.com/FerasBarahmeh/PlayStationHub)
 
-- ⚡ Last Project [DVLD](https://github.com/FerasBarahmeh/DVLD)
+- ⚡ Last Project [TurboQuery](https://github.com/FerasBarahmeh/TurboQuery)
 
 - 🌱 I’m currently learning **ASP.Net Core & Angular**
 
