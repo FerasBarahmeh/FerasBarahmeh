@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Programming Concepts| Laravel | ASP.Net Core**
 
-- 📫 How to reach me **ferasbarahmeh55@gmail.com**
+- 📫 How to reach me **feras.barahmeh@outlook.com**
 
 - ⚡ fact **I think I'm Crazy**
 
