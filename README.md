@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Feras Barahmeh</h1>
-<h3 align="center">Student studying to become an Intelligent System Engineer, currently working as a Software Engineer.</h3>
+<h3 align="center">I'm a Intelligent System Engineer, Software Developer with hands-on experience in building scalable web and mobile applications. I specialize in backend development using Laravel and .NET Core, and have worked on projects involving real-time communication with SignalR, intelligent system integration, and automation.
+
+I’ve developed internal systems, ride-sharing platforms for employees, and real-time dashboards — always focusing on clean architecture, high performance, and business impact.
+
+Whether you need to build a robust API, integrate with third-party services, or launch a full-stack app, I can help you deliver results efficiently.</h3>
 
 <div style="display: flex; gap:10px;     align-items: center;">
 <p > <a href="https://twitter.com/ferasbarahmeh" target="blank"><img src="https://img.shields.io/twitter/follow/ferasbarahmeh?logo=twitter&style=for-the-badge" alt="ferasbarahmeh" /></a> </p>
